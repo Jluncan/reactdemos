@@ -1,0 +1,2 @@
+GET https://swapi.dev/api/people/
+# GET http://localhost:9000/teams
